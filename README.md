@@ -13,3 +13,4 @@ You can use different materials, make sure the rod end joint are without bearing
 
 The holes for the square nuts are about the same dimension of the nuts, to insert them heat them up with a ligher and press them into the hole, this way they will not fall and will be steady inserted in the support.
 
+This design is released under the gnu gpl v2 or the gnu gpl v3 licence at your option.
